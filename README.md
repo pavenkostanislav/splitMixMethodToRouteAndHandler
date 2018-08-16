@@ -1,1 +1,1 @@
-# splitMixMethodToRouteAndHandler
+# Split old mixmethods for create splited: route and handler
