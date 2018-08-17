@@ -1,5 +1,15 @@
-/node_modules
 /gulp-tsc-tmp*
 .gulp-tsc-tmp*.*
 npm-debug.log*
+# Logs
 package-lock.json
+.nyc_output
+
+# Coverage directory used by tools like istanbul
+coverage
+
+# Dependency directory
+node_modules
+
+# Optional npm cache directory
+.npm

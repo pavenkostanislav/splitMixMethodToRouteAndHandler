@@ -10,8 +10,8 @@ var __awaiter = (this && this.__awaiter) || function (thisArg, _arguments, P, ge
 Object.defineProperty(exports, "__esModule", { value: true });
 const genSplitMethods_1 = require("../src/genSplitMethods/genSplitMethods");
 const chai_1 = require("chai");
-describe('getResultFile', function () {
-    it('should return generate files', function () {
+describe('function getResultFile', function () {
+    it('should return expected generated structure', function () {
         return __awaiter(this, void 0, void 0, function* () {
             const expected = `import { Router, Request } from 'express';
 import { IContext } from '../../tools/context';
