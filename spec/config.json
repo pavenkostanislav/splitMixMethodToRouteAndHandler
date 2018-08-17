@@ -1,0 +1,15 @@
+{
+    "routes": [
+    {
+      "name": "Сумма",
+      "route": "/sum",
+      "method": "POST",
+      "input": {
+        "a": "number",
+        "b": "number"
+      },
+      "controller": "./controllers/sum.js",
+      "restricted": false
+    }
+  ]
+}
