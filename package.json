@@ -53,6 +53,7 @@
   },
   "scripts": {
     "build": "gulp build",
+    "cover": "gulp cover",
     "test": "gulp test"
   },
   "repository": {

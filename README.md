@@ -1,5 +1,9 @@
 # Split old mixmethods for create splited: route and handler
 
+<h3>installation</h3>
+
+* `npm install --global typescript gulp mocha nyc`
+
 <h3>functionality</h3>
 Create routing in provided array
 
